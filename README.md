@@ -23,12 +23,6 @@
 
 ---
 
-## 📈 GitHub stats
-
-![lizi's GitHub stats](https://github-readme-stats.vercel.app/api?username=liziyaaa&show_icons=true&theme=transparent&hide_border=true)
-
----
-
 ## 📫 Contact
 
 - Email: **liziyaaa@outlook.com**
