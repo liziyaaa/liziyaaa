@@ -39,17 +39,6 @@
 
 ---
 
-## 📌 Project directions
-
-| Direction | What I care about |
-| --- | --- |
-| Embedded firmware | Stable peripheral configuration, DMA workflow, interrupt debugging, memory layout |
-| Instrumentation | Signal acquisition, filtering, FFT, calibration, measurement reliability |
-| Hardware design | Power integrity, analog front-end, device selection, practical debugging |
-| Edge AI | Model compression, MCU deployment, resource estimation, real-time inference |
-| Robotics / Control | Sensors, motor drive, PID/control logic, ROS-based interaction |
-
-
 ## 📈 GitHub stats
 
 ![lizi's GitHub stats](https://github-readme-stats.vercel.app/api?username=liziyaaa&show_icons=true&theme=transparent&hide_border=true)
