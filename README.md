@@ -1,11 +1,7 @@
 # Hi, I'm lizi 👋
 
-> 成都理工大学 · 测控技术与仪器专业 2023 级本科生  
-> Embedded Systems / Hardware Engineering / Nuclear Instrumentation / Edge AI
-
-我是一名偏工程实践的理工科学生，目前主要在准备 **保研** 和 **硬件/嵌入式方向求职**。我关注的不是“代码能跑一下就行”，而是传感器、模拟前端、MCU 固件、算法模型和实际硬件系统之间怎么稳定地连起来。
-
----
+> Chengdu,Sichuan. Undergraduate students of 2023
+> Embedded Systems / Hardware Engineering / Edge AI
 
 ## 🔭 Currently working on
 
@@ -13,7 +9,7 @@
   熟悉 STM32CubeMX / HAL / Keil 工作流，重点使用 STM32H750，涉及 ADC、DMA、TIM、UART、DCMI、LTDC、FMC、MPU、外扩存储等外设。
 
 - **核探测仪器与信号处理**  
-  关注核辐射探测数据采集、1024 道能谱处理、FFT、滤波、幅频特性测量，以及核素识别模型在 MCU 端的部署。
+  关注核辐射探测数据采集、能谱处理、FFT、滤波、幅频特性测量，以及核素识别模型在 MCU 端的部署。
 
 - **硬件电路与板级调试**  
   主要接触电源、模拟信号链、运放/比较器、三极管/MOS 管驱动、Buck/Boost/LDO、电机驱动和传感器接口等内容。
@@ -53,21 +49,6 @@
 | Edge AI | Model compression, MCU deployment, resource estimation, real-time inference |
 | Robotics / Control | Sensors, motor drive, PID/control logic, ROS-based interaction |
 
----
-
-## 🧪 Engineering notes
-
-我会逐步把项目和学习笔记整理到 GitHub 上。相比只放一个“能跑的视频”，我更希望仓库里有：
-
-- 清晰的系统框图和硬件连接说明；
-- 关键外设配置和调试记录；
-- 可复现的代码结构；
-- 遇到的问题、定位过程和最终解决方式；
-- 从课堂知识到工程实现的迁移过程。
-
-说人话就是：少一点玄学，多一点证据链。工程不是许愿池，板子不会因为你真诚就稳定。
-
----
 
 ## 📈 GitHub stats
 
@@ -77,9 +58,8 @@
 
 ## 📫 Contact
 
-- Email: **2278894087@qq.com**
-- QQ: **2278894087**
+- Email: **liziyaaa@outlook.com**
 
 ---
-
+> Stay hungry. Stay foolish.
 > Keep building. Keep debugging. Keep things measurable.
