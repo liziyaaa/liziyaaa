@@ -27,6 +27,19 @@
 
 - Email: **liziyaaa@outlook.com**
 
+**Elsewhere on the web**
+
+<p>
+  <a href="https://xhslink.cn/o/1PtxBDQ4M1j">
+    <img src="./assets/profile-xiaohongshu-card.svg" alt="小红书 @lizi · 分享一些硬件实习经历" width="560" />
+  </a>
+</p>
+<p>
+  <a href="https://blog.csdn.net/2305_79740746">
+    <img src="./assets/profile-csdn-card.svg" alt="CSDN 技术博客 · 嵌入式、硬件开发与项目记录" width="560" />
+  </a>
+</p>
+
 ---
 > Stay hungry. Stay foolish.
 > Keep building. Keep debugging. Keep things measurable.
