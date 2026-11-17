@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="148" viewBox="0 0 560 148" role="img" aria-label="CSDN 主页入口">
+  <title>CSDN · CSDN 技术博客</title>
+  <rect x="4" y="5" width="552" height="139" rx="23" fill="#eef1f5" opacity=".55"/>
+  <rect x="1" y="1" width="558" height="142" rx="23" fill="#ffffff" stroke="#e7eaf0" stroke-width="1.5"/>
+  <rect x="28" y="42" width="64" height="64" rx="15" fill="#f44b32"/>
+  <text x="60" y="81" text-anchor="middle" fill="#ffffff" font-family="'Microsoft YaHei','Noto Sans CJK SC',Arial,sans-serif" font-size="17" font-weight="750" letter-spacing="-.6">CSDN</text>
+  <text x="114" y="70" fill="#1f2328" font-family="'Microsoft YaHei','Noto Sans CJK SC',Arial,sans-serif" font-size="21" font-weight="650">CSDN 技术博客</text>
+  <text x="114" y="100" fill="#69717e" font-family="'Microsoft YaHei','Noto Sans CJK SC',Arial,sans-serif" font-size="16">嵌入式 · 硬件开发 · 项目记录</text>
+  <rect x="422" y="52" width="111" height="44" rx="22" fill="#0b9ff3"/>
+  <circle cx="448" cy="74" r="9" fill="#ffffff"/>
+  <path d="M445.5 77.6 L449.7 70.7 L452.2 73.4 L445.5 77.6Z" fill="#0b9ff3"/>
+  <text x="483" y="81" text-anchor="middle" fill="#ffffff" font-family="'Microsoft YaHei','Noto Sans CJK SC',Arial,sans-serif" font-size="18" font-weight="650">访问</text>
+</svg>
