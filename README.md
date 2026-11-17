@@ -36,7 +36,7 @@
 </p>
 <p>
   <a href="https://blog.csdn.net/2305_79740746">
-    <img src="./assets/profile-csdn-card.svg" alt="CSDN 技术博客 · 嵌入式、硬件开发与项目记录" width="560" />
+    <img src="./assets/profile-csdn-card.svg" alt="CSDN  · 嵌入式、硬件开发与项目记录" width="560" />
   </a>
 </p>
 
